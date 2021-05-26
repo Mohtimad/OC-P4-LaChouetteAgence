@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -707,6 +707,8 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    max-width: 520px;
+    margin: auto;
 }
 
 h3 {
@@ -736,11 +738,12 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: rgba(255, 255, 255, .6)!important;
 }
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
 }
 
 .portfolio-row {
@@ -753,7 +756,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(0, 0, 0, 0.5);
     padding: 40px 40px 40px 40px;
 }
 
@@ -780,7 +783,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: rgba(255, 255, 255, .8)!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -822,12 +825,17 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 .quote blockquote{
-    font-size: 2rem;
+    margin: auto;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 1.8rem;
     border: 0;
+    max-width: 520px;
+    color: #333333;
 }
 
 @media (max-width: 1024px) {
@@ -867,7 +875,7 @@ h4 {
 
 @media (max-width: 991px) {
     .container {
-        width: 100%;
+        width: 80%;
     }
     .b-parallax {
         background-attachment: scroll;
