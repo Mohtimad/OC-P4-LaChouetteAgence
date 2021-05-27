@@ -1,6 +1,7 @@
-# thomasdamien_4_20052021
+# Projet 4 Openclassrooms DW
+## thomasdamien_4_20052021
 
-- Lien du site obtimisé : [https://mohtimad.github.io/thomasdamien_4_20052021/](https://mohtimad.github.io/thomasdamien_4_20052021/)
+- Lien du site optimisé : [https://mohtimad.github.io/thomasdamien_4_20052021/](https://mohtimad.github.io/thomasdamien_4_20052021/)
 - Lien du site fourni : [https://mohtimad.github.io/thomasdamien_4_20052021-old/](https://mohtimad.github.io/thomasdamien_4_20052021-old/)
 
 ## Analyse de l’état actuel de SEO du site fourni.
