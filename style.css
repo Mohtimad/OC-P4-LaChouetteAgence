@@ -737,12 +737,12 @@ h4 {
 }
 
 .white {
-    color: rgba(255, 255, 255, .6)!important;
+    color: rgba(255, 255, 255, .8)!important;
 }
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    width: 100%;
+    margin: auto;
 }
 
 .portfolio-row {
