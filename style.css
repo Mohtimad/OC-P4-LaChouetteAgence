@@ -737,7 +737,7 @@ h4 {
 }
 
 .white {
-    color: rgba(255, 255, 255, .8)!important;
+    color: white!important;
 }
 
 .portfolio-thumb {
@@ -782,7 +782,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: rgba(255, 255, 255, .8)!important;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -837,7 +837,8 @@ h4 {
     color: #333333;
 }
 
-cite {
+cite,
+address {
     color: #222;
 }
 
