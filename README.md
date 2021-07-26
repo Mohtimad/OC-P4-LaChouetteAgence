@@ -1,8 +1,7 @@
-# Projet 4 Openclassrooms DW
-## thomasdamien_4_20052021
+# La chouette agence - Projet 04
 
 - Lien du site optimisé : [https://mohtimad.github.io/thomasdamien_4_20052021/](https://mohtimad.github.io/thomasdamien_4_20052021/)
-- Lien du site fourni : [https://mohtimad.github.io/thomasdamien_4_20052021-old/](https://mohtimad.github.io/thomasdamien_4_20052021-old/)
+- Code-Source du site fourni : [./src-initial-site](https://github.com/Mohtimad/thomasdamien_4_20052021/tree/master/src-initial-site)
 
 ## Analyse de l’état actuel de SEO du site fourni.
 
